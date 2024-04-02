@@ -34,7 +34,7 @@ We assume that there might be a slight decrease in prices, since many people are
 
 ## Dataset 
 
-1. We downloaded a dataset from kaggle which contains the rental prices in Toronto in April 2020: https://www.kaggle.com/phanindraparashar/Canada-housing-rent-and-price-data-set-apr-20?select=apr20_rental_no_duplicates.csv. This dataset comprises various features that are not relevant to our purpose, therefore we extract only the columns of interest.
+1. Dataset which contains the rental prices in Toronto in April 2020. This dataset comprises various features that are not relevant to our purpose, therefore we extract only the columns of interest.
 
 2. We webscraped from immonet.de. 
 
